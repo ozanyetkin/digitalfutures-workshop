@@ -1,0 +1,13 @@
+'game_config.agents.crew_habitat_medium.n2',
+'game_config.agents.crew_habitat_medium.o2',
+'game_config.agents.crew_habitat_medium.co2',
+'game_config.agents.crew_habitat_medium.h2',
+
+'game_config.agents.greenhouse_small.n2',
+'game_config.agents.greenhouse_small.o2',
+'game_config.agents.greenhouse_small.co2',
+'game_config.agents.greenhouse_small.h2',
+
+'game_config.agents.water_storage.potable',
+'game_config.agents.water_storage.treated',
+'game_config.agents.water_storage.urine',
