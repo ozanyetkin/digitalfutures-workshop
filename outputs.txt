@@ -23,14 +23,25 @@
 'game_config.agents.food_storage.radish',
 'game_config.agents.food_storage.red_beet',
 
-'total_consumption.i.co2.value',
-'total_consumption.i.o2.value',
-'total_consumption.i.potable.value',
-'total_consumption.i.kwh.value',
+# 'total_consumption.i.co2.value',
+# 'total_consumption.i.o2.value',
+# 'total_consumption.i.potable.value',
+# 'total_consumption.i.kwh.value',
+# 
+# 'total_production.i.co2.value',
+# 'total_production.i.o2.value',
+# 'total_production.i.potable.value',
+# 'total_production.i.kwh.value',
 
-'total_production.i.co2.value',
-'total_production.i.o2.value',
-'total_production.i.potable.value',
-'total_production.i.kwh.value',
+'storage_capacities.i.crew_habitat_medium.n2',
+'storage_capacities.i.crew_habitat_medium.o2',
+'storage_capacities.i.crew_habitat_medium.co2',
+'storage_capacities.i.crew_habitat_medium.h2',
+
+'storage_capacities.i.greenhouse_small.n2',
+'storage_capacities.i.greenhouse_small.o2',
+'storage_capacities.i.greenhouse_small.co2',
+'storage_capacities.i.greenhouse_small.h2',
+
 
 'agent_growth.i',
