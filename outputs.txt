@@ -27,7 +27,7 @@
 # 'total_consumption.i.o2.value',
 # 'total_consumption.i.potable.value',
 # 'total_consumption.i.kwh.value',
-# 
+
 # 'total_production.i.co2.value',
 # 'total_production.i.o2.value',
 # 'total_production.i.potable.value',
